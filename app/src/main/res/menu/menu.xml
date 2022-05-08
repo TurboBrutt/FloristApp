@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/flower"
+            android:icon="@drawable/ic_flower_icon"
+            android:title="Цветы"></item>
+        <item
+            android:id="@+id/tree"
+            android:title="Деревья"
+            android:icon="@drawable/ic_tree_icon">
+        </item>
+        <item
+            android:id="@+id/vegetables"
+            android:title="Огородные растения"
+            android:icon="@drawable/ic_vegetable_icon">
+        </item>
+
+    </group>
+
+    <item android:title="Причиняющие вред">
+        <menu>
+            <item
+                android:id="@+id/bacteria"
+                android:title="Болезни"
+                android:icon="@drawable/ic_bacteria_icon">
+            </item>
+            <item
+                android:id="@+id/bug"
+                android:title="Паразиты"
+                android:icon="@drawable/ic_bug_icon">
+            </item>
+        </menu>
+    </item>
+
+    <item android:title="Другое">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:title="Настройки"
+                android:icon="@drawable/ic_baseline_settings_24">
+            </item>
+            <item
+                android:id="@+id/info"
+                android:title="О программе"
+                android:icon="@drawable/ic_baseline_info_24">
+            </item>
+        </menu>
+    </item>
+
+
+</menu>
