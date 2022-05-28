@@ -2,4 +2,6 @@
     <string name="app_name">Florist</string>
     <string name="navigation_draw_open">open navigation drawer</string>
     <string name="navigation_draw_close">close navigation drawer</string>
+    <string name="about_link"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE">Дерево</a></string>
+    <string name="about_link1"><a href="https://ru.wikipedia.org">Цветок</a></string>
 </resources>
