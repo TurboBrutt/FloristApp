@@ -40,9 +40,9 @@
         <menu>
             <item
                 android:id="@+id/settings"
+                android:icon="@drawable/ic_baseline_settings_24"
                 android:title="Настройки"
-                android:icon="@drawable/ic_baseline_settings_24">
-            </item>
+                android:visible="false"></item>
             <item
                 android:id="@+id/info"
                 android:title="О программе"
