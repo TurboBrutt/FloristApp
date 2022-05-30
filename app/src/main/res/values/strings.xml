@@ -4,4 +4,116 @@
     <string name="navigation_draw_close">close navigation drawer</string>
     <string name="about_link"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE">Дерево</a></string>
     <string name="about_link1"><a href="https://ru.wikipedia.org">Цветок</a></string>
+    <string-array name="FlowerNames">
+        <item>Азалия</item>
+        <item>Гортензия</item>
+        <item>Плющ</item>
+        <item>Хризантема</item>
+        <item>Роза</item>
+        <item>Цикламен</item>
+        <item>Гвоздика</item>
+        <item>Пеларгония</item>
+        <item>Спатифиллум</item>
+        <item>Гербера</item>
+    </string-array>
+    <string-array name="FlowerURL">
+        <item>https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D0%BB%D0%B8%D1%8F</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8E%D1%89</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B5%D0%BC%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D0%BA%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B0%D1%80%D0%B3%D0%BE%D0%BD%D0%B8%D1%8F</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%82%D0%B8%D1%84%D0%B8%D0%BB%D0%BB%D1%8E%D0%BC</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B0</item>
+    </string-array>
+    <string-array name="TreeNames">
+        <item>Дуб</item>
+        <item>Береза</item>
+        <item>Клён</item>
+        <item>Ива</item>
+        <item>Тополь</item>
+        <item>Ольха</item>
+        <item>Ясень</item>
+    </string-array>
+    <string-array name="TreeURL">
+        <item>https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%91%D0%BD</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%AF%D1%81%D0%B5%D0%BD%D1%8C</item>
+    </string-array>
+    <string-array name="VegetableNames">
+        <item>Томат</item>
+        <item>Огурец</item>
+        <item>Морковь</item>
+        <item>Редис</item>
+        <item>Фасоль</item>
+        <item>Горох</item>
+        <item>Чеснок</item>
+        <item>Салат</item>
+        <item>Зеленый лук</item>
+        <item>Арбуз</item>
+        <item>Дыня</item>
+        <item>Тыква</item>
+        <item>Кабачок</item>
+        <item>Свёкла</item>
+    </string-array>
+    <string-array name="VegetableURL">
+        <item>https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B0%D1%82</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9E%D0%B3%D1%83%D1%80%D0%B5%D1%86_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%BF%D0%BE%D1%81%D0%B5%D0%B2%D0%BD%D0%B0%D1%8F</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%B8%D1%81</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%81%D0%BE%D0%BB%D1%8C</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D1%85</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BD%D0%BE%D0%BA</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%82%D1%83%D0%BA_%D0%BF%D0%BE%D1%81%D0%B5%D0%B2%D0%BD%D0%BE%D0%B9</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D0%BB%D1%83%D0%BA</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B1%D1%83%D0%B7</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%94%D1%8B%D0%BD%D1%8F</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BA%D0%B2%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D1%87%D0%BE%D0%BA</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%91%D0%BA%D0%BB%D0%B0</item>
+    </string-array>
+    <string-array name="DiseaseNames">
+        <item>Гнили</item>
+        <item>Бурая ржавчина пшеницы</item>
+        <item>Мозаичные болезни</item>
+        <item>Головня</item>
+        <item>Парша яблони</item>
+        <item>Парша картофеля</item>
+        <item>Ризоктониоз</item>
+    </string-array>
+    <string-array name="DiseaseURL">
+        <item>https://ru.wikipedia.org/wiki/%D0%93%D0%BD%D0%B8%D0%BB%D0%B8</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B0%D1%8F_%D1%80%D0%B6%D0%B0%D0%B2%D1%87%D0%B8%D0%BD%D0%B0_%D0%BF%D1%88%D0%B5%D0%BD%D0%B8%D1%86%D1%8B</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B7%D0%B0%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%8F_(%D0%B1%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C)</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%88%D0%B0_%D1%8F%D0%B1%D0%BB%D0%BE%D0%BD%D0%B8</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%88%D0%B0_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8F</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%88%D0%B0_(%D1%84%D0%B8%D1%82%D0%BE%D0%BF%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)</item>
+    </string-array>
+    <string-array name="ParasiteNames">
+        <item>Колорадский жук</item>
+        <item>Саранча</item>
+        <item>Тля</item>
+        <item>Клоп</item>
+        <item>Свекловичный долгоносик</item>
+        <item>Проволочник</item>
+        <item>Медведка обыкновенная</item>
+        <item>Короед</item>
+    </string-array>
+    <string-array name="ParasiteURL">
+        <item>https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D0%BA</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%87%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A2%D0%BB%D0%B8</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%BE%D0%BF%D1%8B</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D0%BA%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D0%B8%D0%BA</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B8%D0%BA</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0</item>
+        <item>https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B5%D0%B4%D1%8B</item>
+    </string-array>
 </resources>
